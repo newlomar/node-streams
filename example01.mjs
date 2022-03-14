@@ -16,7 +16,7 @@
 // import http from 'http'
 
 // import { createReadStream, readFileSync } from 'fs'
-//node -e "process.stdout.write(crypto.randomBytes(1e9))" > big.file
+//node -e "process.stdout.write(crypto.randomBytes(1e9))" > big.file // -> para criar um arquivo de 2 gb através do terminal.
 // http.createServer((req, res) => {
 //   // const file = readFileSync('big.file')//.toString()
 //   // res.write(file)
